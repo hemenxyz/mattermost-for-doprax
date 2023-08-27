@@ -1,4 +1,4 @@
-From mattermost
+From mattermost/mattermost-team-edition
 Expose 8065
 Expose 80
 Expose 8443
